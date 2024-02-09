@@ -9,7 +9,7 @@ function login() {
     }
 
     alert('Login successful!'); 
-    window.location.href = 'index1.html';
+    window.location.href = 'index.html';
 
     function performSearch() {
         var searchTerm = document.getElementById('search').value.toLowerCase();
